@@ -19,14 +19,14 @@ This project analyzes customer behavior, account activity, and demographic infor
 
 2. **Tools & Technologies:**
    
-**SQL**
+  **SQL**
 - Data Cleaning
 - Data Exploration
 - KPI Calculations
 - Customer Segmentation
 - Business Analysis
   
-**Power BI**
+  **Power BI**
 - Dashboard Development
 - KPI Monitoring
 - Customer Churn Visualization
