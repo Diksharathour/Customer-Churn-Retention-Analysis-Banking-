@@ -15,16 +15,17 @@ This project analyzes customer behavior, account activity, and demographic infor
 6. **Insights & Recommendations-** Evaluate how customer churn affects overall business performance, customer lifetime value, and potential revenue retention opportunities. Provide data-backed recommendations to improve customer loyalty and long-term profitability.
 
 ## **Project Structure**
-1. **Database Management**
-Import and structure customer data in SQL.
+1. **Database Management:** Import and structure customer data in SQL.
 
-2. **Tools & Technologies**
+2. **Tools & Technologies:**
+   
 **SQL**
 - Data Cleaning
 - Data Exploration
 - KPI Calculations
 - Customer Segmentation
 - Business Analysis
+  
 **Power BI**
 - Dashboard Development
 - KPI Monitoring
