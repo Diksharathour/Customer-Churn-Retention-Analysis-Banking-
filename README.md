@@ -49,6 +49,7 @@ This project analyzes customer behavior, account activity, and demographic infor
 ## **Key Business Questions Answered**
 
 Q.1 What percentage of customers have churned?
+
 Q.2 What percentage of customers have been retained?
 Q.3 Which customer segments have the highest churn rate?
 Q.4 How does churn vary by age group, gender, and geography?
