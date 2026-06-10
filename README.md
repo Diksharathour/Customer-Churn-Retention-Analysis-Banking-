@@ -18,7 +18,7 @@ This project analyzes customer behavior, account activity, and demographic infor
 1. **Database Management:** Import and structure customer data in SQL.
 
 2. **Tools & Technologies:**
-   
+
   **SQL**
 - Data Cleaning
 - Data Exploration
@@ -48,14 +48,14 @@ This project analyzes customer behavior, account activity, and demographic infor
 
 ## **Key Business Questions Answered**
 
-- What percentage of customers have churned?
-- What percentage of customers have been retained?
-- Which customer segments have the highest churn rate?
-- How does churn vary by age group, gender, and geography?
-- Are inactive customers more likely to churn?
-- Does product adoption influence customer retention?
-- How does customer tenure affect churn probability?
-- Build a churn-risk customer segmentation model.
+Q1. What percentage of customers have churned?
+Q2. What percentage of customers have been retained?
+Q3. Which customer segments have the highest churn rate?
+Q4. How does churn vary by age group, gender, and geography?
+Q5. Are inactive customers more likely to churn?
+Q6. Does product adoption influence customer retention?
+Q7. How does customer tenure affect churn probability?
+Q8. Build a churn-risk customer segmentation model.
 
 ## **Key Insights**
 
