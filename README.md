@@ -18,8 +18,8 @@ This project analyzes customer behavior, account activity, and demographic infor
 1. **Database Management:** Import and structure customer data in SQL.
 
 2. **Tools & Technologies:**
-
-  **SQL**
+  
+   **SQL**
 - Data Cleaning
 - Data Exploration
 - KPI Calculations
