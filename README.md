@@ -66,32 +66,32 @@ Q.8 Build a churn-risk customer segmentation model.
 
 ## **Key Insights**
 
-1. **Customer Engagement**
-Inactive customers exhibited significantly higher churn rates compared to active customers.
+1. **Customer Engagement-**
+   Inactive customers exhibited significantly higher churn rates compared to active customers.
 
-2. **Adoption**
-Customers with fewer banking products were more likely to leave the bank, indicating lower engagement levels.
+3. **Adoption-**
+   Customers with fewer banking products were more likely to leave the bank, indicating lower engagement levels.
 
-3. **Demographics**
-Certain age groups and geographic regions showed consistently higher churn behavior.
+4. **Demographics-**
+   Certain age groups and geographic regions showed consistently higher churn behavior.
 
-4. **Financial Impact**
-High-balance churned customers represented substantial potential revenue loss for the organization.
+5. **Financial Impact-**
+   High-balance churned customers represented substantial potential revenue loss for the organization.
 
-5. **Customer Retention**
-Long-term customer relationships and increased product adoption were associated with stronger retention outcomes.
+6. **Customer Retention-**
+   Long-term customer relationships and increased product adoption were associated with stronger retention outcomes.
 
 ## **Business Recommendations**
 
-1. **Improve Customer Engagement**
-Develop proactive engagement campaigns targeting inactive customers.
+1. **Improve Customer Engagement-**
+   Develop proactive engagement campaigns targeting inactive customers.
 
-2. **Increase Product Adoption**
-Promote cross-selling and upselling initiatives to encourage deeper customer relationships.
+2. **Increase Product Adoption-**
+   Promote cross-selling and upselling initiatives to encourage deeper customer relationships.
 
-3. **Early Warning System**
-Implement churn-risk monitoring to identify and retain high-risk customers before attrition occurs.
-Create retention strategies based on customer demographics, activity levels, and account characteristics.
+3. **Early Warning System-**
+   Implement churn-risk monitoring to identify and retain high-risk customers before attrition occurs.
+   Create retention strategies based on customer demographics, activity levels, and account characteristics.
 
-4. **Regional Strategy**
-Design geography-specific customer retention initiatives where churn rates are highest.
+4. **Regional Strategy-**
+   Design geography-specific customer retention initiatives where churn rates are highest.
