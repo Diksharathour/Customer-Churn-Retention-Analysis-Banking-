@@ -3,7 +3,7 @@
 #  **Project Overview**
 Customer retention is one of the most critical challenges in the banking industry. The ``bank_customer_churn`` dataset includes detailed information such as CustomerId, CreditScore,Geography, Gender, Age, Tenure, Balance and Exited.  While acquiring new customers requires significant investment, retaining existing customers helps improve profitability, customer lifetime value, and long-term business growth. 
 
-This project analyzes customer behavior, account activity, and demographic information to identify factors influencing customer churn and provide actionable recommendations to improve retention.  Using SQL for data analysis and Power BI for visualization, the project transforms raw customer data into actionable business insights and strategic recommendations.
+This project analyzes customer behavior, account activity, and demographic information to identify factors influencing customer churn and provide actionable recommendations to improve retention. Using SQL for data analysis and Power BI for visualization, the project transforms raw customer data into actionable business insights and strategic recommendations.
 
 ## **Objectives**
 
@@ -15,6 +15,7 @@ This project analyzes customer behavior, account activity, and demographic infor
 6. **Insights & Recommendations-** Evaluate how customer churn affects overall business performance, customer lifetime value, and potential revenue retention opportunities. Provide data-backed recommendations to improve customer loyalty and long-term profitability.
 
 ## **Project Structure**
+
 1. **Database Management:** Import and structure customer data in SQL.
 
 2. **Tools & Technologies:**
@@ -46,7 +47,7 @@ This project analyzes customer behavior, account activity, and demographic infor
 - Visualize KPIs, churn trends, and customer behavior patterns.
 - Enable data-driven decision making.
 
-## **Key Business Questions Answered**
+## **Business Problems**
 
 Q.1 What percentage of customers have churned?
 
